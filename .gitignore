@@ -1,0 +1,10 @@
+# Godot
+.godot/
+
+# iOS export (regenerate with the export command in the README)
+export/*
+!export/.gdignore
+
+# KXBuild output
+build/
+
